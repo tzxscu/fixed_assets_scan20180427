@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assets</string>
+    <string name="btn_scan_code">扫 描</string>
+    <string name="asset_scan_btn_text">扫 描</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_update">更新</string>
+    <string name="menu_create_db">创建数据库</string>
+</resources>
